@@ -2,15 +2,28 @@
 
 💻 **About Me**
 - 🌱 I’m currently learning **C Programming** and exploring **Graphic Design**.
-- 💼 I’m interested in **Web Development**, **App Development**, **Data Science**, **Machine Learning**, **Cybersecurity**, and **Creative Direction**.
-- 🎯 My goal: To become a skilled and creative software engineer, contributing to both technology and design.
-- ⚡ Fun fact: I love mixing creativity with logic — code and design are my favorite combo!
+- 💼 Passionate about **Web Development**, **App Development**, **Data Science**, **Machine Learning**, and **Cybersecurity**.
+- 🎯 My goal: To become a **creative software engineer**, blending art & logic together.
+- ☕ Fun fact: My best ideas come with **coffee + code + anime background music** 🎧
+
+---
+
+## 🧠 “Code is like art — it’s all about creativity, logic, and passion.”
+> _“When you can imagine it, you can code it.”_ 💪  
+> _“A single bug can’t stop your dream — keep debugging your life!”_
 
 ---
 
 ## 🛠️ Tech Stack
 💻 **Languages & Tools:**  
-`C` `VS Code` `Graphic Design Tools (Photoshop / Illustrator / Canva)`  
+`C` `VS Code` `Photoshop` `Illustrator` `Canva`
+
+---
+
+## 🖼️ Programmer Vibe
+![Coding Anime Scene](https://i.pinimg.com/originals/9b/2b/63/9b2b6302f07e5f2c9f563b72e9b2a3ef.gif)
+
+*(Because every programmer deserves a bit of anime motivation while coding!)* ☕💻
 
 ---
 
@@ -28,3 +41,4 @@
 ---
 
 ⭐️ From [mohammadkaif261001-netizen](https://github.com/mohammadkaif261001-netizen)
+
