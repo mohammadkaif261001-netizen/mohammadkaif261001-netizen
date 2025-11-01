@@ -41,4 +41,9 @@
 ---
 
 ⭐️ From [mohammadkaif261001-netizen](https://github.com/mohammadkaif261001-netizen)
+## 🖼️ Programmer Vibe  
+![Anime Programmer](https://github.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/blob/main/anime_programmer.png?raw=true)  
+
+*Because every coder deserves coffee, creativity, and a little anime inspiration!* ☕💻✨
+
 
