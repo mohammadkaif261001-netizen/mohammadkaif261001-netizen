@@ -20,10 +20,10 @@
 
 ---
 
-## 🖼️ Programmer Vibe
-![Coding Anime Scene](https://i.pinimg.com/originals/9b/2b/63/9b2b6302f07e5f2c9f563b72e9b2a3ef.gif)
+## 🖼️ Programmer Vibe  
+![Anime Programmer](https://raw.githubusercontent.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/main/anime_programmer.png)  
 
-*(Because every programmer deserves a bit of anime motivation while coding!)* ☕💻
+*Because every coder deserves coffee, creativity, and a little anime inspiration!* ☕💻✨
 
 ---
 
@@ -41,9 +41,4 @@
 ---
 
 ⭐️ From [mohammadkaif261001-netizen](https://github.com/mohammadkaif261001-netizen)
-## 🖼️ Programmer Vibe  
-![Anime Programmer](https://github.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/blob/main/anime_programmer.png?raw=true)  
-
-*Because every coder deserves coffee, creativity, and a little anime inspiration!* ☕💻✨
-
 
