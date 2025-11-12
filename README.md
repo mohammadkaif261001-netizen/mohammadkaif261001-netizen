@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Md.+Kaif+Hosen+Topader!;C+Programmer,+Tech+Learner,+Creative+Mind;Welcome+to+My+Dark+Tech+World!🌙" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md.+Kaif+Hosen+Topader!;C+Programmer,+Tech+Learner,+Creative+Mind;Welcome+to+My+Dark+Tech+World!" alt="Typing Animation" />
 </p>
 
 ---
