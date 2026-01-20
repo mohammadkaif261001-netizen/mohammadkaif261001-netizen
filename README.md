@@ -70,7 +70,7 @@
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.facebook.com/profile.php?id=61577721566429](https://www.facebook.com/share/14LBTq95GqC/)" target="_blank">
+  <a href="[[https://www.facebook.com/profile.php?id=61577721566429](https://www.facebook.com/share/14LBTq95GqC/)](https://www.facebook.com/share/14LBTq95GqC/)" target="_blank">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
