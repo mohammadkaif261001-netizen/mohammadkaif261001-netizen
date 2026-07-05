@@ -1,511 +1,263 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,30:203A43,70:2C5364,100:00B4DB&text=MD.%20Kaif%20Hosen%20Topader&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,30:203A43,70:2C5364,100:00B4DB&text=MD.%20Kaif%20Hosen%20Topader&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20Java%20%26%20Web%20Dev&descAlignY=55&descSize=16"/>
 
-# Hi there 👋 I'm MD. Kaif Hosen Topader
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Java+Developer+in+Progress;Web+Development+Enthusiast;Problem+Solver+%7C+Lifelong+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&lines=Building+one+clean+commit+at+a+time;Java+%26+OOP+%7C+DSA+%7C+Web+Development;Turning+problems+into+practice;Consistency+%3E+Perfection" />
 
 <br>
 
-<a href="https://github.com/mohammadkaif261001-netizen">
+<p>
 <img src="https://komarev.com/ghpvc/?username=mohammadkaif261001-netizen&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-</a>
+<img src="https://img.shields.io/github/followers/mohammadkaif261001-netizen?style=for-the-badge&color=0e75b6&label=Followers"/>
+<img src="https://img.shields.io/github/stars/mohammadkaif261001-netizen?affiliations=OWNER&style=for-the-badge&color=0e75b6&label=Stars"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge"/>
+</p>
 
-<a href="https://github.com/mohammadkaif261001-netizen?tab=followers">
-<img src="https://img.shields.io/github/followers/mohammadkaif261001-netizen?style=for-the-badge&color=0e75b6"/>
-</a>
-
-<a href="https://github.com/mohammadkaif261001-netizen">
-<img src="https://img.shields.io/github/stars/mohammadkaif261001-netizen?affiliations=OWNER&style=for-the-badge&color=0e75b6"/>
-</a>
-
-<br><br>
-
-<a href="https://kaif-hosen.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00B4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohammadkaif261001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://judge.beecrowd.com/en/profile/1207444">
-<img src="https://img.shields.io/badge/Beecrowd-Profile-00599C?style=for-the-badge"/>
-</a>
+<p>
+<a href="https://kaif-hosen.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00B4DB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohammadkaif261001@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://judge.beecrowd.com/en/profile/1207444"><img src="https://img.shields.io/badge/Beecrowd-Profile-00599C?style=for-the-badge"/></a>
+</p>
 
 </div>
 
+<br>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## 💫 About Me
+
+I'm a **CSE student from Bangladesh** building toward a career as a software developer — one deliberate, well-tested commit at a time.
+
+Right now my focus is **Java, Object-Oriented Programming, and Web Development**, layered on top of daily DSA practice. I care more about *why* code works than just making it run, which is why I lean on clean structure and file-driven logic even in small practice projects.
+
+**What I'm optimizing for in 2026:**
+- 🧠 Deep, not surface-level, Java + DSA fundamentals
+- 🏗️ Fewer, better-documented projects over many shallow ones
+- 🤝 My first real open-source contribution
+
+<br>
+
+```text
+const developer = {
+  name: "MD. Kaif Hosen Topader",
+  location: "Bangladesh 🇧🇩",
+  role: "CSE Student",
+  stack: ["Java", "C", "C++", "JavaScript", "HTML/CSS"],
+  learning: ["DSA", "SQL", "Spring Boot", "React"],
+  currentGoal: "Software Engineering Internship"
+};
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br>
+
+> *"Success doesn't come from what you do occasionally.*
+> *It comes from what you do consistently."*
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 💫 About Me
-
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 **Computer Science & Engineering Student** from **Bangladesh**
-
-💻 Passionate about writing clean, efficient, and maintainable code.
-
-🌱 Currently strengthening my programming fundamentals through hands-on projects and continuous learning.
-
-☕ My primary focus is **Java**, **Object-Oriented Programming**, and **Web Development**.
-
-🧩 I enjoy solving programming challenges because they improve logical thinking and problem-solving skills.
-
-🚀 My long-term goal is to become a skilled **Software Developer** by building real-world applications, contributing to open source, and continuously improving my technical knowledge.
-
-⚡ **Fun Fact:** I believe that consistent daily practice is more powerful than occasional intense effort.
-
-<br clear="right"/>
-
----
-
-# 🚀 Current Learning Journey
+## 🧭 Learning Roadmap
 
 <div align="center">
 
-```text
-Programming Fundamentals
-          │
-          ▼
-          C
-          │
-          ▼
-         C++
-          │
-          ▼
-        Java OOP
-          │
-          ▼
- Data Structures & Algorithms
-          │
-          ▼
-        SQL Basics
-          │
-          ▼
-      Spring Boot
-          │
-          ▼
-         React
-          │
-          ▼
- Full Stack Development
+```mermaid
+graph LR
+    A[Programming Fundamentals] --> B[C / C++]
+    B --> C[Java & OOP]
+    C --> D[Data Structures & Algorithms]
+    D --> E[SQL]
+    E --> F[Spring Boot]
+    F --> G[React]
+    G --> H[Full-Stack Development]
+
+    style A fill:#0F2027,stroke:#00B4DB,color:#fff
+    style B fill:#203A43,stroke:#00B4DB,color:#fff
+    style C fill:#2C5364,stroke:#00B4DB,color:#fff
+    style D fill:#2C5364,stroke:#00B4DB,color:#fff
+    style E fill:#203A43,stroke:#00B4DB,color:#fff
+    style F fill:#0F2027,stroke:#00B4DB,color:#fff
+    style G fill:#0F2027,stroke:#00B4DB,color:#fff
+    style H fill:#00B4DB,stroke:#fff,color:#000
 ```
 
 </div>
 
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
-</p>
+<sub>💡 Mermaid diagrams render natively on GitHub — no extra setup needed.</sub>
 
 ---
 
-## 🎨 Frontend Development
+## 🛠 Tech Stack & Proficiency
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
+<table width="100%">
+<tr><td>
 
----
+**Core Languages**
 
-## ⚙️ Currently Learning
+`Java` ████████░░ 80%
+`C++` ██████░░░░ 60%
+`C` ███████░░░ 70%
+`JavaScript` █████░░░░░ 50%
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,mysql,react,spring"/>
-</p>
+</td><td>
 
----
+**Web & Currently Learning**
 
-## 🧰 Tools & IDEs
+`HTML/CSS` ████████░░ 80%
+`SQL` ███░░░░░░░ 30%
+`React` ██░░░░░░░░ 20%
+`Spring Boot` ██░░░░░░░░ 20%
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github"/>
-</p>
-
----
-
-## 💻 Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
+</td></tr>
+</table>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadkaif261001-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif261001-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=mohammadkaif261001-netizen&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkaif261001-netizen&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,mysql,react,spring,vscode,idea,windows,linux"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 💼 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Smart Entry Security System
+Java-based access control simulator with OTP verification, Face ID simulation, entry logging, time validation, and automatic fine calculation.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=flat-square"/> <img src="https://img.shields.io/badge/File_Handling-9C27B0?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio Website
+Fully responsive personal portfolio built to showcase projects, skills, and learning progress with a modern UI.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://kaif-hosen.netlify.app"><img src="https://img.shields.io/badge/Live_Site-00B4DB?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Java Practice Repository
+Ongoing collection of Java programs covering core syntax, OOP, exception handling, and file-handling exercises.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 HTML & CSS Projects
+Growing set of responsive web pages built while learning modern layout techniques (Flexbox, Grid).
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+<sub>🚧 Building in public — quality over quantity. Repo links go live as each project ships.</sub>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadkaif261001-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif261001-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=mohammadkaif261001-netizen&theme=tokyonight&hide_border=true"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkaif261001-netizen&theme=tokyo-night&hide_border=true"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=mohammadkaif261001-netizen&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
 ---
-# 💼 Featured Projects
 
-<div align="center">
+## 🎯 2026 Milestones
 
-> 🚧 **More exciting projects are coming soon!**  
-> I believe in building quality projects over quantity. Every project I publish reflects my learning journey and commitment to writing clean, maintainable code.
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🛡️ Smart Entry Security System
-
-A Java-based security system that simulates modern access control with features like OTP verification, Face ID simulation, entry logs, time validation, and fine calculation.
-
-**Tech Stack**
-
-`Java` `OOP` `File Handling`
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Skill Building**
+- [x] Strengthen programming fundamentals
+- [ ] Master Java programming
+- [ ] Complete DSA roadmap
+- [ ] Learn SQL
+- [ ] Learn Spring Boot
+- [ ] Learn React
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🌐 Personal Portfolio Website
-
-My personal portfolio showcasing my skills, projects, learning journey, and contact information with a modern responsive UI.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://kaif-hosen.netlify.app">
-<img src="https://img.shields.io/badge/Live_Website-00B4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+**Output & Growth**
+- [ ] Build 20+ real-world projects
+- [ ] Solve 1,000+ programming problems
+- [ ] Make first open-source PR
+- [ ] Land a software engineering internship
+- [ ] Write technical notes/blog as I learn
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 📚 Java Practice Repository
-
-A collection of Java programs covering basic syntax, OOP concepts, exception handling, file handling, and problem-solving exercises.
-
-**Tech Stack**
-
-`Java`
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💻 HTML & CSS Projects
-
-A growing collection of responsive webpages built while learning modern HTML and CSS.
-
-**Tech Stack**
-
-`HTML5`
-
-`CSS3`
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Strengthen Programming Fundamentals
-- 🎯 Master Java Programming
-- 🎯 Learn Data Structures & Algorithms
-- 🎯 Learn SQL
-- 🎯 Learn Spring Boot
-- 🎯 Learn React
-- 🎯 Build 20+ Real World Projects
-- 🎯 Solve 1000+ Programming Problems
-- 🎯 Contribute to Open Source
-- 🎯 Earn a Software Engineering Internship
-
----
-
-# 🌱 Current Focus
-
-```text
-✔ Learning Java Deeply
-
-✔ Improving Problem Solving Skills
-
-✔ Building Real-World Projects
-
-✔ Exploring Modern Web Development
-
-✔ Writing Cleaner Code Every Day
-```
-
----
-
-# 📈 Learning Philosophy
-
-> "Small progress every day is better than occasional perfection."
-
-I enjoy learning by building practical projects, solving programming problems, and continuously improving my coding skills.
-
----
-
-# 🌐 Connect With Me
+## 🌍 Languages
 
 <div align="center">
 
-<a href="https://github.com/mohammadkaif261001-netizen">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:mohammadkaif261001@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://kaif-hosen.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00B4DB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://judge.beecrowd.com/en/profile/1207444">
-<img src="https://img.shields.io/badge/Beecrowd-Profile-00599C?style=for-the-badge"/>
-</a>
+| 🇧🇩 Bengali | 🇺🇸 English |
+|:---:|:---:|
+| Native | Professional Working Proficiency |
 
 </div>
 
 ---
 
-# 🧠 Currently Exploring
-
+<details>
+<summary><b>🐍 Contribution Snake Animation</b> (click to expand)</summary>
+<br>
 <div align="center">
-
-| Area | Status |
-|------|--------|
-| Java OOP | 🟢 Learning |
-| DSA | 🟡 Starting |
-| SQL | 🟡 Planned |
-| Spring Boot | 🔵 Next |
-| React | 🔵 Next |
-| Open Source | 🔵 Future Goal |
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Let's connect, collaborate, and grow together. 🚀
-
-</div>
-# 🐍 Contribution Snake Animation
-
-> ⚠️ **This section requires a GitHub Action to generate the snake animation automatically.**  
-> Follow the workflow below to enable it.
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-
 </div>
 
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00B4DB/mohammadkaif261001-netizen" alt="Contribution Calendar"/>
-
-</div>
-
----
-
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/mohammadkaif261001-netizen?template=classic&isocalendar=1&languages=1&habits=1&achievements=1&base=header%2Cactivity%2Ccommunity&config.timezone=Asia%2FDhaka" />
-
-</div>
-
----
-
-# 🏅 Developer Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-Enthusiast-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web%20Development-Learning-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solver-Active-informational?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Lifelong-Learner-00B4DB?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📚 Currently Reading & Learning
-
-```text
-📘 Clean Code
-
-📗 Effective Java
-
-📙 Head First Java
-
-📕 Data Structures & Algorithms
-
-📒 Spring Boot Documentation
-```
-
----
-
-# 🌍 Languages
-
-<div align="center">
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇧🇩 Bengali | Native |
-| 🇺🇸 English | Professional Working Proficiency |
-
-</div>
-
----
-
-# 🤝 Open Source Goals
-
-- Contribute to beginner-friendly open-source projects
-- Improve collaboration using Git & GitHub
-- Learn professional development workflows
-- Review and improve existing code
-- Gain experience through community contributions
-
----
-
-# 📌 Repository Highlights
-
-> I aim to create repositories that are:
->
-> - Well documented
-> - Beginner friendly
-> - Cleanly structured
-> - Easy to understand
-> - Focused on solving real problems
-
----
-
-# 💡 My Coding Principles
-
-```text
-✔ Write clean code
-
-✔ Keep learning
-
-✔ Build practical projects
-
-✔ Never stop improving
-
-✔ Consistency over perfection
-```
-
----
-
-# ⚙️ GitHub Action (Snake Animation)
-
-Create this file:
-
-```text
-.github/workflows/snake.yml
-```
-
-Paste the following:
+Enable it via `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
 jobs:
   generate:
     permissions:
       contents: write
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: Platane/snk@v3
         with:
@@ -513,7 +265,6 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -521,18 +272,47 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+</details>
+
+<details>
+<summary><b>📅 Contribution Calendar</b> (click to expand)</summary>
+<br>
+<div align="center">
+<img src="https://ghchart.rshah.org/00B4DB/mohammadkaif261001-netizen" alt="Contribution Calendar"/>
+</div>
+</details>
+
+<details>
+<summary><b>📚 Currently Reading</b> (click to expand)</summary>
+<br>
+
+```text
+📘 Clean Code — Robert C. Martin
+📗 Effective Java — Joshua Bloch
+📙 Head First Java
+📕 Data Structures & Algorithms
+```
+</details>
 
 ---
 
-# ✨ Thanks for Visiting
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mohammadkaif261001-netizen"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:mohammadkaif261001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+</div>
+
+<br>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00B4DB,50:2C5364,100:0F2027"/>
 
-## Thanks for visiting my profile! 💙
-
-### Let's Learn, Build, and Grow Together 🚀
+**Thanks for stopping by 💙 — let's learn, build, and grow together.**
 
 *"The expert in anything was once a beginner who never gave up."*
 
