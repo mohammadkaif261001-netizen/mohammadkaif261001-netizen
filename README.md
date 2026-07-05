@@ -14,6 +14,10 @@
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-0F2027?style=for-the-badge"/>
+</p>
+
+<p>
 <a href="https://kaif-hosen.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00B4DB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohammadkaif261001@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -55,7 +59,7 @@ const developer = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 <br>
 
@@ -179,6 +183,18 @@ Growing set of responsive web pages built while learning modern layout technique
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+
+<sub>Enable this with the workflow at the bottom of this README (one-time setup).</sub>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -190,7 +206,28 @@ Growing set of responsive web pages built while learning modern layout technique
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkaif261001-netizen&theme=tokyo-night&hide_border=true"/>
 
+<br>
+
+<img width="98%" src="https://raw.githubusercontent.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadkaif261001-netizen&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadkaif261001-netizen&theme=tokyonight"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=mohammadkaif261001-netizen&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 📍 Location
+
+<div align="center">
+
+<img width="70%" src="https://staticmap.openstreetmap.de/staticmap.php?center=23.6850,90.3563&zoom=6&size=650x300&maptype=mapnik&markers=23.8103,90.4125,red-pushpin" alt="Bangladesh map"/>
+
+<br><sub>📍 Based in Dhaka, Bangladesh — open to remote opportunities</sub>
 
 </div>
 
@@ -239,13 +276,10 @@ Growing set of responsive web pages built while learning modern layout technique
 ---
 
 <details>
-<summary><b>🐍 Contribution Snake Animation</b> (click to expand)</summary>
+<summary><b>⚙️ Enable the Snake Animation</b> (one-time setup — click to expand)</summary>
 <br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
 
-Enable it via `.github/workflows/snake.yml`:
+To activate the snake animation shown earlier in this README, add `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
@@ -272,6 +306,38 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+</details>
+
+<details>
+<summary><b>⚙️ Enable the 3D Contribution Graph</b> (one-time setup — click to expand)</summary>
+<br>
+
+To activate the 3D bar-chart graph shown in the Analytics section, add `.github/workflows/profile-3d-contrib.yml`:
+
+```yaml
+name: 3D Profile Contribution Graph
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: mohammadkaif261001-netizen
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "generate profile 3D contribution"
+          file_pattern: "profile-3d-contrib/*.svg"
+```
+
+This generates the SVG at `profile-3d-contrib/profile-night-rainbow.svg` in your repo, which the graph above already links to.
 </details>
 
 <details>
