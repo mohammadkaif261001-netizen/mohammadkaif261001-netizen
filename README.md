@@ -32,20 +32,22 @@
 <tr>
 <td width="60%" valign="top">
 
-## 💫 About Me
+💫 About Me
 
-I'm a **CSE student from Bangladesh** building toward a career as a software developer — one deliberate, well-tested commit at a time.
+I'm a CSE student from Bangladesh building toward a career as a software developer — one deliberate, well-tested commit at a time.
 
-Right now my focus is **Java, Object-Oriented Programming, and Web Development**, layered on top of daily DSA practice. I care more about *why* code works than just making it run, which is why I lean on clean structure and file-driven logic even in small practice projects.
+Right now my focus is Java, Object-Oriented Programming, and Web Development, layered on top of daily DSA practice. I care more about why code works than just making it run, which is why I lean on clean structure and file-driven logic even in small practice projects.
 
-**What I'm optimizing for in 2026:**
-- 🧠 Deep, not surface-level, Java + DSA fundamentals
-- 🏗️ Fewer, better-documented projects over many shallow ones
-- 🤝 My first real open-source contribution
+What I'm optimizing for in 2026:
+
+🧠 Deep, not surface-level, Java + DSA fundamentals
+
+🏗️ Fewer, better-documented projects over many shallow ones
+
+🤝 My first real open-source contribution
 
 <br>
 
-```text
 const developer = {
   name: "MD. Kaif Hosen Topader",
   location: "Bangladesh 🇧🇩",
@@ -54,7 +56,6 @@ const developer = {
   learning: ["DSA", "SQL", "Spring Boot", "React"],
   currentGoal: "Software Engineering Internship"
 };
-```
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -63,20 +64,16 @@ const developer = {
 
 <br>
 
-> *"Success doesn't come from what you do occasionally.*
-> *It comes from what you do consistently."*
+"Success doesn't come from what you do occasionally.It comes from what you do consistently."
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧭 Learning Roadmap
+🧭 Learning Roadmap
 
 <div align="center">
 
-```mermaid
 graph LR
     A[Programming Fundamentals] --> B[C / C++]
     B --> C[Java & OOP]
@@ -94,34 +91,25 @@ graph LR
     style F fill:#0F2027,stroke:#00B4DB,color:#fff
     style G fill:#0F2027,stroke:#00B4DB,color:#fff
     style H fill:#00B4DB,stroke:#fff,color:#000
-```
 
 </div>
 
 <sub>💡 Mermaid diagrams render natively on GitHub — no extra setup needed.</sub>
 
----
-
-## 🛠 Tech Stack & Proficiency
+🛠 Tech Stack & Proficiency
 
 <table width="100%">
 <tr><td>
 
-**Core Languages**
+Core Languages
 
-`Java` ████████░░ 80%
-`C++` ██████░░░░ 60%
-`C` ███████░░░ 70%
-`JavaScript` █████░░░░░ 50%
+Java ████████░░ 80%C++ ██████░░░░ 60%C ███████░░░ 70%JavaScript █████░░░░░ 50%
 
 </td><td>
 
-**Web & Currently Learning**
+Web & Currently Learning
 
-`HTML/CSS` ████████░░ 80%
-`SQL` ███░░░░░░░ 30%
-`React` ██░░░░░░░░ 20%
-`Spring Boot` ██░░░░░░░░ 20%
+HTML/CSS ████████░░ 80%SQL ███░░░░░░░ 30%React ██░░░░░░░░ 20%Spring Boot ██░░░░░░░░ 20%
 
 </td></tr>
 </table>
@@ -132,15 +120,22 @@ graph LR
 
 </div>
 
----
-
-## 💼 Featured Projects
+💼 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Smart Entry Security System
+🧪 ELEMENTA — The Periodic Table
+
+Interactive web-based Periodic Table for exploring chemical elements through a clean and responsive interface.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://github.com/mohammadkaif261001-netizen/ELEMENTA----The-Periodic-Table"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+🛡️ Smart Entry Security System
+
 Java-based access control simulator with OTP verification, Face ID simulation, entry logging, time validation, and automatic fine calculation.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=flat-square"/> <img src="https://img.shields.io/badge/File_Handling-9C27B0?style=flat-square"/>
@@ -148,7 +143,8 @@ Java-based access control simulator with OTP verification, Face ID simulation, e
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Website
+🌐 Personal Portfolio Website
+
 Fully responsive personal portfolio built to showcase projects, skills, and learning progress with a modern UI.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -160,7 +156,8 @@ Fully responsive personal portfolio built to showcase projects, skills, and lear
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Java Practice Repository
+📚 Java Practice Repository
+
 Ongoing collection of Java programs covering core syntax, OOP, exception handling, and file-handling exercises.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -168,7 +165,8 @@ Ongoing collection of Java programs covering core syntax, OOP, exception handlin
 </td>
 <td width="50%" valign="top">
 
-### 💻 HTML & CSS Projects
+💻 HTML & CSS Projects
+
 Growing set of responsive web pages built while learning modern layout techniques (Flexbox, Grid).
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -181,21 +179,17 @@ Growing set of responsive web pages built while learning modern layout technique
 <sub>🚧 Building in public — quality over quantity. Repo links go live as each project ships.</sub>
 </div>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mohammadkaif261001-netizen/mohammadkaif261001-netizen/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
-<sub>Enable this with the workflow at the bottom of this README (one-time setup).</sub>
+<sub>The animation is generated automatically by GitHub Actions.</sub>
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -219,9 +213,7 @@ Growing set of responsive web pages built while learning modern layout technique
 
 </div>
 
----
-
-## 📍 Location
+📍 Location
 
 <div align="center">
 
@@ -231,90 +223,77 @@ Growing set of responsive web pages built while learning modern layout technique
 
 </div>
 
----
-
-## 🎯 2026 Milestones
+🎯 2026 Milestones
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Skill Building**
-- [x] Strengthen programming fundamentals
-- [ ] Master Java programming
-- [ ] Complete DSA roadmap
-- [ ] Learn SQL
-- [ ] Learn Spring Boot
-- [ ] Learn React
+Skill Building
+
+Strengthen programming fundamentals
+
+Master Java programming
+
+Complete DSA roadmap
+
+Learn SQL
+
+Learn Spring Boot
+
+Learn React
 
 </td>
 <td width="50%" valign="top">
 
-**Output & Growth**
-- [ ] Build 20+ real-world projects
-- [ ] Solve 1,000+ programming problems
-- [ ] Make first open-source PR
-- [ ] Land a software engineering internship
-- [ ] Write technical notes/blog as I learn
+Output & Growth
+
+Build 20+ real-world projects
+
+Solve 1,000+ programming problems
+
+Make first open-source PR
+
+Land a software engineering internship
+
+Write technical notes/blog as I learn
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌍 Languages
+🌍 Languages
 
 <div align="center">
 
-| 🇧🇩 Bengali | 🇺🇸 English |
-|:---:|:---:|
-| Native | Professional Working Proficiency |
+🇧🇩 Bengali
+
+🇺🇸 English
+
+Native
+
+Professional Working Proficiency
 
 </div>
 
----
-
 <details>
-<summary><b>⚙️ Enable the Snake Animation</b> (one-time setup — click to expand)</summary>
+<summary><b>⚙️ Snake Animation Setup</b></summary>
 <br>
 
-To activate the snake animation shown earlier in this README, add `.github/workflows/snake.yml`:
+The snake animation is generated automatically by the GitHub Actions workflow:
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mohammadkaif261001-netizen
-          outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+\.github/workflows/snake.yml
+
+After the workflow runs successfully, the generated SVG files are published to the output branch and displayed above.
+
 </details>
 
 <details>
 <summary><b>⚙️ Enable the 3D Contribution Graph</b> (one-time setup — click to expand)</summary>
 <br>
 
-To activate the 3D bar-chart graph shown in the Analytics section, add `.github/workflows/profile-3d-contrib.yml`:
+To activate the 3D bar-chart graph shown in the Analytics section, add .github/workflows/profile-3d-contrib.yml:
 
-```yaml
 name: 3D Profile Contribution Graph
 on:
   schedule:
@@ -335,9 +314,9 @@ jobs:
         with:
           commit_message: "generate profile 3D contribution"
           file_pattern: "profile-3d-contrib/*.svg"
-```
 
-This generates the SVG at `profile-3d-contrib/profile-night-rainbow.svg` in your repo, which the graph above already links to.
+This generates the SVG at profile-3d-contrib/profile-night-rainbow.svg in your repo, which the graph above already links to.
+
 </details>
 
 <details>
@@ -352,23 +331,18 @@ This generates the SVG at `profile-3d-contrib/profile-night-rainbow.svg` in your
 <summary><b>📚 Currently Reading</b> (click to expand)</summary>
 <br>
 
-```text
 📘 Clean Code — Robert C. Martin
 📗 Effective Java — Joshua Bloch
 📙 Head First Java
 📕 Data Structures & Algorithms
-```
+
 </details>
 
----
-
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/mohammadkaif261001-netizen"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:mohammadkaif261001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/mohammadkaif261001-netizen"><img src="https://skillicons.dev/icons?i=github"/></a><a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/"><img src="https://skillicons.dev/icons?i=linkedin"/></a><a href="mailto:mohammadkaif261001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 </div>
 
@@ -378,9 +352,9 @@ This generates the SVG at `profile-3d-contrib/profile-night-rainbow.svg` in your
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00B4DB,50:2C5364,100:0F2027"/>
 
-**Thanks for stopping by 💙 — let's learn, build, and grow together.**
+Thanks for stopping by 💙 — let's learn, build, and grow together.
 
-*"The expert in anything was once a beginner who never gave up."*
+"The expert in anything was once a beginner who never gave up."
 
 <img src="https://komarev.com/ghpvc/?username=mohammadkaif261001-netizen&label=Thanks%20for%20Visiting&color=00B4DB&style=for-the-badge"/>
 
