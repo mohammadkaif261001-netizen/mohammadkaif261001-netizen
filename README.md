@@ -9,12 +9,15 @@
 <a href="https://github.com/mohammadkaif261001-netizen">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/mohammad-kaif-hosen-topader-ab448a395/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:mohammadkaif261001@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://kaif-hosen.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-00B4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -22,6 +25,10 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mohammadkaif261001-netizen&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/mohammadkaif261001-netizen?style=for-the-badge&color=0e75b6&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/mohammadkaif261001-netizen?affiliations=OWNER&style=for-the-badge&color=0e75b6&label=Stars"/>
 
 </div>
 
@@ -31,7 +38,9 @@
 
 I'm a **Computer Science & Engineering student from Bangladesh** building toward a career in software engineering.
 
-My current focus is **Java, Object-Oriented Programming, Data Structures & Algorithms, and Web Development**. I enjoy turning programming concepts into practical projects and improving my code through consistent practice.
+My current focus is **Java, Object-Oriented Programming, Data Structures & Algorithms, and Web Development**.
+
+I enjoy turning programming concepts into practical projects and improving my code through consistent practice.
 
 ```javascript
 const developer = {
@@ -56,17 +65,3 @@ const developer = {
 
     goal: "Software Engineering Internship"
 };
-<!--
-**mohammadkaif261001-netizen/mohammadkaif261001-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
